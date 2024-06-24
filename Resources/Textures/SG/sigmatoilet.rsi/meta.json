@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "size":
+  {
+    "x": 32,
+    "y": 32
+  },
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Made by gladiarus (keki4) for ss14",
+  "states":
+  [
+    {
+      "name": "toilet_sigma",
+      "directions": 4
+    },
+
+    {
+      "name": "toilet_sigma_dead",
+      "directions": 1
+    }
+  ]
+}

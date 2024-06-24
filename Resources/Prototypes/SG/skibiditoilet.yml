@@ -1,0 +1,20 @@
+- type: entity
+  name: Скибиди туалет
+  parent: SimpleMobBase
+  id: Skibidi
+  description: Шкибиди доп доп доп дауб удывабды
+  components:
+  - type: Sprite
+    drawdepth: Mobs
+    sprite: SG/sigmatoilet.rsi
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PhysShapeCircle
+          radius: 0.35
+        density: 5 #They actually are pretty light, I looked it up
+        mask:
+        - MobMask
+        layer:
+        - MobLayer

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/cmss13-devs/cmss13/blob/cfa259bbd2d627ed94a359fa8c0dec63006f49fa/icons/mob/hud/alien_standard.dmi",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "plasma0"
+    },
+    {
+      "name": "plasma1"
+    },
+    {
+      "name": "plasma2"
+    },
+    {
+      "name": "plasma3"
+    },
+    {
+      "name": "plasma4"
+    },
+    {
+      "name": "plasma5"
+    },
+    {
+      "name": "plasma6"
+    },
+    {
+      "name": "plasma7"
+    },
+    {
+      "name": "plasma8"
+    },
+    {
+      "name": "plasma9"
+    },
+    {
+      "name": "plasma10"
+    },
+    {
+      "name": "plasma11"
+    },
+    {
+      "name": "plasma12"
+    },
+    {
+      "name": "plasma13"
+    },
+    {
+      "name": "plasma14"
+    },
+    {
+      "name": "plasma15"
+    },
+    {
+      "name": "plasma16"
+    },
+    {
+      "name": "plasma17"
+    },
+    {
+      "name": "plasma18"
+    }
+  ]
+}
